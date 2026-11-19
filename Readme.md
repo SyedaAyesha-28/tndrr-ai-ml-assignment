@@ -1,6 +1,6 @@
 # tndrr AI/ML Internship Assignment
 
-Submission by **[Syeda Ayesha]** | [ay3shaa28@gmail.com] | [SyedaAyesha-28]
+Submission by **Syeda Ayesha** | ay3shaa28@gmail.com | SyedaAyesha-28
 
 This repository contains my work for the three assignment tasks. The PDF report with results and written answers is submitted separately through the form (copy: `report.pdf`).
 
@@ -96,4 +96,4 @@ This repository contains my work for the three assignment tasks. The PDF report 
 
 ## Contact
 
-[Syeda Ayesha] | [ay3shaa28@gmail.com]
+Syeda Ayesha | ay3shaa28@gmail.com
