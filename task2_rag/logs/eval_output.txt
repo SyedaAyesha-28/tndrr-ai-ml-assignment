@@ -1,0 +1,53 @@
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BLDGLF+Helvetica', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 40, '/FontDescriptor': IndirectObject(171, 0, 2999780705232), '/LastChar': 151, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [333, 333, 0, 0, 0, 333, 278, 0, 556, 556, 556, 556, 0, 0, 556, 0, 556, 556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 778, 0, 278, 0, 0, 0, 833, 722, 0, 667, 0, 722, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+15 questions OK
+
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2437.05it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+chunk size 100 words | 266 chunks
+  dense   recall@1=4/15 (27%)  recall@3=10/15 (67%)  recall@5=11/15 (73%)
+  bm25    recall@1=5/15 (33%)  recall@3=6/15 (40%)  recall@5=9/15 (60%)
+  hybrid  recall@1=5/15 (33%)  recall@3=10/15 (67%)  recall@5=12/15 (80%)
+
+chunk size 300 words | 89 chunks
+  dense   recall@1=6/15 (40%)  recall@3=9/15 (60%)  recall@5=10/15 (67%)
+  bm25    recall@1=4/15 (27%)  recall@3=8/15 (53%)  recall@5=9/15 (60%)
+  hybrid  recall@1=7/15 (47%)  recall@3=9/15 (60%)  recall@5=12/15 (80%)
+
+DENSE FAILURES (recall@5 missed):
+[chunk=100] Q: It’s been a while since I had a problem with something I bought. How long do I have to file a consumer complaint?
+   needed (page 28): shall not admit a complaint unless it is filed within two years from the date on which
+   top-1 was page 28: within two years from the date on which the cause of action has arisen. (2) Notwithstanding anything contained in sub-section ( 1), a complaint may be entertained after the period specified in sub-sec...
+
+[chunk=100] Q: My consumer case is worth more than ₹10 crore. Which Commission should hear it?
+   needed (page 26): complaints where the value of the goods or services paid as consideration exceeds rupees ten crore
+   top-1 was page 26: services paid as consideration exceeds rupees ten crore: Provided that where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit; (ii) complaints aga...
+
+[chunk=100] Q: A company is ignoring an order from the Consumer Commission. What could happen to it?
+   needed (page 29): imprisonment for a term which shall not be less than one month, but which may extend to three years
+   top-1 was page 14: an opportunity of being heard before passing an order under this section. 21. (1) Where the Central Authority is satisfied after investigation that any advertisement is false or misleading and is prej...
+
+[chunk=100] Q: A shop shared my personal details that I gave in confidence. Is that allowed?
+   needed (page 10): disclosing to other person any personal information given in confidence by the consumer
+   top-1 was page 4: goods or services to a consumer and includes any online market place or online auction sites; (18) "endorsement", in relation to an advertisement, means— (i) any message, verbal statement, demonstrati...
+
+[chunk=300] Q: It’s been a while since I had a problem with something I bought. How long do I have to file a consumer complaint?
+   needed (page 28): shall not admit a complaint unless it is filed within two years from the date on which
+   top-1 was page 31: shall continue to hear all the issues involved in such consumer dispute. CHAPTER VI PRODUCT LIABILITY 82. This Chapter shall apply to every claim for compensation under a product liability action by a...
+
+[chunk=300] Q: My consumer case is worth more than ₹10 crore. Which Commission should hear it?
+   needed (page 26): complaints where the value of the goods or services paid as consideration exceeds rupees ten crore
+   top-1 was page 4: injury to the consumer; and (ii) deliberate withholding of relevant information by such person to the consumer; (12) "design", in relation to a product, means the intended or known physical and materi...
+
+[chunk=300] Q: A company is ignoring an order from the Consumer Commission. What could happen to it?
+   needed (page 29): imprisonment for a term which shall not be less than one month, but which may extend to three years
+   top-1 was page 14: an opportunity of being heard before passing an order under this section. 21. (1) Where the Central Authority is satisfied after investigation that any advertisement is false or misleading and is prej...
+
+[chunk=300] Q: What makes an advertisement count as misleading under the Act?
+   needed (page 5): gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality
+   top-1 was page 14: an opportunity of being heard before passing an order under this section. 21. (1) Where the Central Authority is satisfied after investigation that any advertisement is false or misleading and is prej...
+
+[chunk=300] Q: After I file a complaint, how many days does the Commission normally take to decide whether to accept it?
+   needed (page 18): shall ordinarily be decided within twenty-one days from the date on which the complaint was filed
+   top-1 was page 28: the Supreme Court unless that person has deposited fifty per cent. of that amount in the manner as may be prescribed. 68. Every order of a District Commission or the State Commission or the National C...
+
+Saved results.txt

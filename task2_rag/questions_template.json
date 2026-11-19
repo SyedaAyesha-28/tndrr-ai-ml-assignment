@@ -1,0 +1,4 @@
+[
+  {"q": "REPLACE: your question in your own words", "evidence": "REPLACE: 8 to 20 words copied exactly from doc_text.txt", "page": 1},
+  {"q": "REPLACE: second question", "evidence": "REPLACE: exact phrase that answers it", "page": 2}
+]

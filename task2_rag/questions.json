@@ -1,0 +1,77 @@
+[
+  {
+    "q": "It’s been a while since I had a problem with something I bought. How long do I have to file a consumer complaint?",
+    "evidence": "shall not admit a complaint unless it is filed within two years from the date on which",
+    "page": 28
+  },
+  {
+    "q": "My consumer case is worth more than ₹10 crore. Which Commission should hear it?",
+    "evidence": "complaints where the value of the goods or services paid as consideration exceeds rupees ten crore",
+    "page": 26
+  },
+  {
+    "q": "The District Commission decided against me. Can I appeal, and how soon do I need to do it?",
+    "evidence": "on the grounds of facts or law within a period of forty-five days from the date of the order",
+    "page": 22
+  },
+  {
+    "q": "A company is ignoring an order from the Consumer Commission. What could happen to it?",
+    "evidence": "imprisonment for a term which shall not be less than one month, but which may extend to three years",
+    "page": 29
+  },
+  {
+    "q": "A company ran an ad that misled customers. What penalty could it face?",
+    "evidence": "imprisonment for a term which may extend to two years and with fine which may extend to ten lakh rupees",
+    "page": 33
+  },
+  {
+    "q": "I bought something for my small business. Does that make me a consumer under the Act?",
+    "evidence": "does not include a person who obtains such goods for resale or for any commercial purpose",
+    "page": 3
+  },
+  {
+    "q": "What makes an advertisement count as misleading under the Act?",
+    "evidence": "gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality",
+    "page": 5
+  },
+  {
+    "q": "How does the Act define a defect in goods?",
+    "evidence": "any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained",
+    "page": 4
+  },
+  {
+    "q": "What does e-commerce mean under this Act?",
+    "evidence": "buying or selling of goods or services including digital products over digital or electronic network",
+    "page": 4
+  },
+  {
+    "q": "After I file a complaint, how many days does the Commission normally take to decide whether to accept it?",
+    "evidence": "shall ordinarily be decided within twenty-one days from the date on which the complaint was filed",
+    "page": 18
+  },
+  {
+    "q": "How long should the Commission take to decide my complaint once the other side has been notified?",
+    "evidence": "decide the complaint within a period of three months from the date of receipt of notice by opposite party",
+    "page": 20
+  },
+  {
+    "q": "Up to what value of goods or services can the District Commission hear a complaint?",
+    "evidence": "where the value of the goods or services paid as consideration does not exceed one crore rupees",
+    "page": 17
+  },
+  {
+    "q": "If both sides want to try mediation, how soon must they give their written consent?",
+    "evidence": "give in writing, within five days, consent to have their dispute settled by mediation",
+    "page": 18
+  },
+  {
+    "q": "I modified a product myself and it harmed me. Can I bring a product liability case against the seller?",
+    "evidence": "cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified",
+    "page": 32
+  },
+  {
+    "q": "A shop shared my personal details that I gave in confidence. Is that allowed?",
+    "evidence": "disclosing to other person any personal information given in confidence by the consumer",
+    "page": 10
+  }
+]

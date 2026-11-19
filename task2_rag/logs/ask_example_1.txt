@@ -1,0 +1,13 @@
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BLDGLF+Helvetica', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 40, '/FontDescriptor': IndirectObject(171, 0, 2587919697360), '/LastChar': 151, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [333, 333, 0, 0, 0, 333, 278, 0, 556, 556, 556, 556, 0, 0, 556, 0, 556, 556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 778, 0, 278, 0, 0, 0, 833, 722, 0, 667, 0, 722, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  25%|██▍       | 49/199 [00:00<00:00, 466.92it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1672.61it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+QUESTION: How long do I have to file a consumer complaint?
+
+RETRIEVED (hybrid, top 5):
+  - page 19: period not exceeding fifteen days as may be granted by the District Commission; (b) if the opposite party, on receipt of a copy of the complaint, referred to hi...
+  - page 2: a consumer, his legal heir or legal representative; or (vii) in case of a consumer being a minor, his parent or legal guardian; (6) "complaint" means any allega...
+  - page 28: within two years from the date on which the cause of action has arisen. (2) Notwithstanding anything contained in sub-section ( 1), a complaint may be entertain...
+  - page 13: violations of consumer rights or unfair trade practices, either suo motu or on a complaint received or on the directions from the Central Government; (b) file c...
+  - page 13: office, inquire into or investigate complaints regarding violation of rights of consumers as a class, on matters relating to violations of consumer rights, unfa...
+
+ANSWER: Not found in the retrieved text.

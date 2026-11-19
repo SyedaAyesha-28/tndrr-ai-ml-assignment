@@ -1,0 +1,18 @@
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BLDGLF+Helvetica', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 40, '/FontDescriptor': IndirectObject(171, 0, 2108661387088), '/LastChar': 151, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [333, 333, 0, 0, 0, 333, 278, 0, 556, 556, 556, 556, 0, 0, 556, 0, 556, 556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 778, 0, 278, 0, 0, 0, 833, 722, 0, 667, 0, 722, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  25%|██▌       | 50/199 [00:00<00:00, 485.92it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1728.90it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+#1 | page 14 | chunk 81
+an opportunity of being heard before passing an order under this section. 21. (1) Where the Central Authority is satisfied after investigation that any advertisement is false or misleading and is prejudicial to the interest of any consumer or is in contravention of consumer rights, it may, by order, issue directions to the concerned trader or manufacturer or endorser or advertiser or publisher, as the case may be, to discontinue such advertisement or to modify the same in such manner and within 
+
+#2 | page 14 | chunk 78
+of consumer rights or any unfair trade practice or any false or misleading advertisement, by any person, which is prejudicial to the public interest or to the interests of consumers and if it is satisfied that there exists a prima facie case, it shall cause investigation to be made by the DirectorGeneral or by the District Collector. (2) Where, after preliminary inquiry, the Central Authority is of the opinion that the matter is to be dealt with by a Regulator established under any other law for
+
+#3 | page 14 | chunk 80
+is sufficient evidence to show violation of consumer rights or unfair trade practice by a person, it may pass such order as may be necessary, including— (a) recalling of goods or withdrawal of services which are dangerous, hazardous or unsafe; (b) reimbursement of the prices of goods or services so recalled to purchasers of such goods or services; and (c) discontinuation of practices which are unfair and prejudicial to consumers' interest: Provided that the Central Authority shall give the perso
+
+#4 | page 31 | chunk 205
+concerned Commission. (3) Where no agreement is reached between the parties within the specified time or the mediator is of the opinion that settlement is not possible, he shall prepare his report accordingly and submit the same to the concerned Commission. 81. (1) The District Commission or the State Commission or the National Commission, as the case may be, shall, within seven days of the receipt of the settlement report, pass suitable order recording such settlement of consumer dispute and di
+
+#5 | page 32 | chunk 213
+cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or (e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm. 87. (1) A product
+

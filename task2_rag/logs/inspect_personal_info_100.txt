@@ -1,0 +1,18 @@
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BLDGLF+Helvetica', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 40, '/FontDescriptor': IndirectObject(171, 0, 1675272343376), '/LastChar': 151, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [333, 333, 0, 0, 0, 333, 278, 0, 556, 556, 556, 556, 0, 0, 556, 0, 556, 556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 778, 0, 278, 0, 0, 0, 833, 722, 0, 667, 0, 722, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 2280.89it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+#1 | page 4 | chunk 20
+goods or services to a consumer and includes any online market place or online auction sites; (18) "endorsement", in relation to an advertisement, means— (i) any message, verbal statement, demonstration; or (ii) depiction of the name, signature, likeness or other identifiable personal characteristics of an individual; or (iii) depiction of the name or seal of any institution or organisation, which makes the consumer to believe that it reflects the opinion, finding or experience of the person mak
+
+#2 | page 15 | chunk 88
+District Collector, as the case may be, may, if he has any reason to believe that any person has violated any consumer rights or committed unfair trade practice or causes any false or misleading advertisement to be made, shall,— (a) enter at any reasonable time into any such premises and search for any document or record or article or any other form of evidence and seize such document, record, article or such evidence; (b) make a note or an inventory of such record or article; or (c) require any
+
+#3 | page 7 | chunk 36
+of any description which is made available to potential users and includes, but not limited to, the provision of facilities in connection with banking, financing, insurance, transport, processing, supply of electrical or other energy, telecom, boarding or lodging or both, housing construction, entertainment, amusement or the purveying of news or other information, but does not include the rendering of any service free of charge or under a contract of personal service; (43) "spurious goods" means
+
+#4 | page 9 | chunk 45
+generally in the relevant market unless it is clearly specified to be the price at which the product has been sold or services have been provided by the person by whom or on whose behalf the representation is made; (j) gives false or misleading facts disparaging the goods, services or trade of another person. Explanation.—For the purposes of this sub-clause, a statement that is,— (A) expressed on an article offered or displayed for sale, or on its wrapper or container; or (B) expressed on anythi
+
+#5 | page 7 | chunk 32
+include— (a) a seller of immovable property, unless such person is engaged in the sale of constructed house or in the construction of homes or flats; (b) a provider of professional services in any transaction in which, the sale or use of a product is only incidental thereto, but furnishing of opinion, skill or services being the essence of such transaction; (c) a person who— (I) acts only in a financial capacity with respect to the sale of the product; (II) is not a manufacturer, wholesaler, dis
+

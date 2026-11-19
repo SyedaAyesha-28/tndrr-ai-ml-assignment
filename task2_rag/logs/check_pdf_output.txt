@@ -1,0 +1,9 @@
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/BLDGLF+Helvetica', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 40, '/FontDescriptor': IndirectObject(171, 0, 2549123534352), '/LastChar': 151, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [333, 333, 0, 0, 0, 333, 278, 0, 556, 556, 556, 556, 0, 0, 556, 0, 556, 556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 722, 0, 0, 778, 0, 278, 0, 0, 0, 833, 722, 0, 667, 0, 722, 667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1000]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+pages: 40 | total words: 21263 | avg words/page: 531
+Wrote doc_text.txt. Open it and check that the text looks clean.
+
+--- sample from page 3 ---
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3 (b) displayed on the goods or any package containing such goods; or (c) displayed on the price list exhibited by him by or under any law for the time being in force; or (d) agreed between the parties; (v) the goods, which are hazardous to life and safety when used, are being offered for sale to the public— (a) in contravention of standards relating to safety of such goods as required to be complied with, by or under any law for the time being in force
+
+--- sample from page 21 ---
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 21 (f) any other matter which may be prescribed by the Central Government. (10) Every proceeding before the District Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code, and the District Commission shall be deemed to be a criminal court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973. (11) Where the complainant is a consumer referred to in sub

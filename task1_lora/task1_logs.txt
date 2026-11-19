@@ -1,0 +1,40 @@
+TRAINING 
+
+trainable params: 8,798,208 || all params: 502,830,976 || trainable%: 1.7497
+Map: 100%|█████████████████████████| 1500/1500 [00:00<00:00, 1732.07 examples/s]
+{'loss': '0.6357', 'grad_norm': '2.153', 'learning_rate': '0.00018', 'epoch': '0.2128'}
+{'loss': '0.07063', 'grad_norm': '0.8374', 'learning_rate': '0.0001944', 'epoch': '0.4255'}
+{'loss': '0.01266', 'grad_norm': '0.5577', 'learning_rate': '0.0001758', 'epoch': '0.6383'}
+{'loss': '0.004084', 'grad_norm': '0.02414', 'learning_rate': '0.0001467', 'epoch': '0.8511'}
+{'loss': '0.0005783', 'grad_norm': '0.0142', 'learning_rate': '0.0001112', 'epoch': '1.064'}
+{'loss': '0.000317', 'grad_norm': '0.004915', 'learning_rate': '7.412e-05', 'epoch': '1.277'}
+{'loss': '0.0002421', 'grad_norm': '0.004149', 'learning_rate': '4.062e-05', 'epoch': '1.489'}
+{'loss': '0.0003546', 'grad_norm': '0.003895', 'learning_rate': '1.533e-05', 'epoch': '1.702'}
+{'loss': '0.00022', 'grad_norm': '0.003312', 'learning_rate': '1.743e-06', 'epoch': '1.915'}
+{'train_runtime': '205.3', 'train_samples_per_second': '14.61', 'train_steps_per_second': '0.458', 'train_loss': '0.07711', 'epoch': '2'}
+100%|███████████████████████████████████████████| 94/94 [03:25<00:00,  2.18s/it]
+Saved adapter to lora_out/
+
+EVALUATION 
+
+BASE      : {'n': 96, 'strict_json_valid_%': 78.1, 'lenient_json_valid_%': 100.0, 'exact_match_%': 0.0, 'category_acc_%': 0.0, 'urgency_acc_%': 0.0, 'sentiment_acc_%': 0.0}
+FINE-TUNED: {'n': 96, 'strict_json_valid_%': 100.0, 'lenient_json_valid_%': 100.0, 'exact_match_%': 69.8, 'category_acc_%': 69.8, 'urgency_acc_%': 100.0, 'sentiment_acc_%': 100.0}
+
+FINE-TUNED FAILURES
+
+- I have waited a few days already, support closed my ticket without solving anything. This is unacceptable!! 
+   gold: {"category": "poor_service", "urgency": "medium", "sentiment": "angry"} 
+   pred: {"category": "closed_ticket", "urgency": "medium", "sentiment": "angry"}
+
+- No rush, whenever you get time, paisa wapas nahi aaya for the cancelled groceries order. 
+   gold: {"category": "refund", "urgency": "low", "sentiment": "neutral"} 
+   pred: {"category": "cancelled_order", "urgency": "low", "sentiment": "neutral"}
+
+- Hello, please look into this soon, box mein phone ki jagah kuch aur nikla. Would really appreciate your help, thank you. 
+   gold: {"category": "wrong_item", "urgency": "medium", "sentiment": "polite"} 
+   pred: {"category": "damaged_product", "urgency": "medium", "sentiment": "polite"}
+
+BASE + LABELS IN PROMPT
+
+BASE + LABELS IN PROMPT: {'n': 96, 'strict_json_valid_%': 35.4, 'exact_match_%': 3.1, 'category_acc_%': 32.3, 'urgency_acc_%': 38.5, 'sentiment_acc_%': 34.4}
+
